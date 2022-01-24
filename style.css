@@ -1,6 +1,5 @@
 body {
-  background: #44AA44;
-  background-color: #44AA44;
+  background-color: #6bc96b;
 }
 
 h1 {
@@ -9,7 +8,7 @@ h1 {
 }
 
 p {
-   font-family Times New Roman;
+   font-family:Georgia, 'Times New Roman', Times, serif;
    font-size: 1.5em;
 }
 
