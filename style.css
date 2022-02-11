@@ -14,4 +14,13 @@ p {
 
 a {
    color: white;
+   border: solid 1px black;
 }
+
+nav {
+display: flex;
+justify-content: flex-end;
+margin: 2px;
+
+}
+
